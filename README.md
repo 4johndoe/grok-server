@@ -20,7 +20,7 @@ using the next technologies:
 - password  (string => hashed)
 - token     (string)
 
-## Topics
+## Desks
 - id        (uuid)
 - author    (Ref)
 - title     (string)
@@ -28,7 +28,7 @@ using the next technologies:
 
 ## Cards
 - id                (uuid)
-- topic             (Ref)
+- desk              (Ref)
 - front             (string)
 - back              (string)
 - progress          (long)
