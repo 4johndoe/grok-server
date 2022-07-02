@@ -68,3 +68,6 @@ using the next technologies:
 
 /api/users/:user-id/desks/:desk-id/cards
 - POST   => create a new card
+
+how to get datomic locally
+https://nextjournal.com/vgautam/getting-started-with-datomic-and-postgres
